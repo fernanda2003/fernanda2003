@@ -5,7 +5,6 @@
 - 🚵‍♀️ Já me aventurei com Flutter para desenvolvimento Mobile!
 - ⚡ Fun fact: Sou curiosa e amo me desafiar!
 
-  ![snake gif](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake.svg
 <div align="center">
   <a href="https://github.com/fernanda2003">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda2003&show_icons=true&theme=rose&include_all_commits=true"/>
@@ -34,5 +33,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+![snake gif](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake.svg
 
 </div>
