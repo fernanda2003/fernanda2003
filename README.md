@@ -32,8 +32,7 @@
   <a href="fernanda-figueiredo-b4243a1bb" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  ![snake gif](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake.svg)
 
-
+  ![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake.svg)
 </div>
