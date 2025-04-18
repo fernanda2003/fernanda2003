@@ -10,6 +10,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda2003&show_icons=true&theme=rose&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda2003&layout=compact&langs_count=8&theme=rose"/>
     
+![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake-dark.svg)
+    
   </a>
 </div>
 
@@ -33,6 +35,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  ![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake-dark.svg)
-  ![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake.svg)
+
 </div>
