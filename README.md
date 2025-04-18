@@ -6,11 +6,11 @@
 - ⚡ Fun fact: Sou curiosa e amo me desafiar!
 - 
 <div align="center">
+
+![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake-dark.svg)
   <a href="https://github.com/fernanda2003">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda2003&show_icons=true&theme=rose&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda2003&layout=compact&langs_count=8&theme=rose"/>
-    
-![Snake animation](https://github.com/fernanda2003/fernanda2003/blob/output/github-contribution-grid-snake-dark.svg)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda2003&layout=compact&langs_count=8&theme=rose"/
     
   </a>
 </div>
