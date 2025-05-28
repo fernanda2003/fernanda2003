@@ -1,9 +1,9 @@
 ## Olá eu sou a Fernanda👋
 
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de sistemas
-- 🌱 Aprendendo Linguage, Python, Kotlin, JavaScript, Java, entre outros.
+- 🌱 Aprendendo Linguagem Python, Kotlin, JavaScript, Java, entre outros.
 - 🚵‍♀️ Já me aventurei com Flutter para desenvolvimento Mobile!
-- ⚡ Fun fact: Sou curiosa e amo me desafiar!
+- ⚡ Fun fact: Fiz break dance por mais de 5 anos
 
 <div align="center">
   <a href="https://github.com/fernanda2003">
